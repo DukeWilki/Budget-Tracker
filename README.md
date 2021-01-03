@@ -15,12 +15,14 @@
 * [Questions](#questions)
 
 ## Description
-Budget-Tracker is a personal financia manageent application which is functional both online and offline.
+Budget-Tracker is a personal financial manageent application which is functional both online and offline.
 
 ## Files
 This applictaion is made up of: The main file is the server.js found in the root directory. The schema for the transcation function is also found on the root directory. The public folder contains the front-end files such as the index html and javascript, css and icons folder. The public folder also contains the service-worker, manifest and a db file which enable the app to be used offline.
 
 ## Installation
+This app is available on Heroku: https://sheltered-wave-50214.herokuapp.com/
+
 To run on your local, you will need to do an 'npm i' on: express, morgan, mongoose and compression.
 
 ## Usage
@@ -31,7 +33,9 @@ The design shows a line graph so spending can be tracked over time. It also keep
 
 ## Demo
 Video demo: https://drive.google.com/file/d/1LsJB43XBYH-EoQDPEfHME4tcO6XriQ2k/view
-Screenshot:
+
+Screenshot: 
+
 ![Screenshot 1](https://github.com/DukeWilki/Budget-Tracker/blob/main/img/screenshot.jpg)
 
 ## License
@@ -47,7 +51,7 @@ If can contribute to this project, please follow these simple rules:
 * Please respect the authors request if they do not want contributions on this project. 
 
 ## Testing Instructions
-To test, follow the above installation instructuions and test on your local server. Make sure all bugs are solved prior to git push and record all changes made.
+To test, follow the above 'local' installation instructuions and test on your local server. Make sure all bugs are solved prior to git push and record all changes made.
 
 ## Questions
 Conatct me on gitHub at https://github.com/dukewilki for any questions about Budget-Tracker.
