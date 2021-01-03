@@ -30,7 +30,9 @@ If this is the first time using the app, enter the amount in your budget and pre
 The design shows a line graph so spending can be tracked over time. It also keeps a record of transactions in a scrollable table.
 
 ## Demo
-TBA
+Video demo: https://drive.google.com/file/d/1LsJB43XBYH-EoQDPEfHME4tcO6XriQ2k/view
+Screenshot:
+![Screenshot 1](https://github.com/DukeWilki/Workout-Tracker/blob/main/img/screenshot.jpg)
 
 ## License
 This application has MIT License applied.
