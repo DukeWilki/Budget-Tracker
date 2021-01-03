@@ -32,7 +32,7 @@ The design shows a line graph so spending can be tracked over time. It also keep
 ## Demo
 Video demo: https://drive.google.com/file/d/1LsJB43XBYH-EoQDPEfHME4tcO6XriQ2k/view
 Screenshot:
-![Screenshot 1](https://github.com/DukeWilki/Workout-Tracker/blob/main/img/screenshot.jpg)
+![Screenshot 1](https://github.com/DukeWilki/Budget-Tracker/blob/main/img/screenshot.jpg)
 
 ## License
 This application has MIT License applied.
